@@ -15,7 +15,7 @@ Once the outliers are removed the reason for the skewed data becames apparent.  
 
 
 <p align="center">
-  <img width="700" height="400" src="https://github.com/jacquie0583/Data-Science-Challenge/blob/main/Picture2.png">
+  <img width="800" height="400" src="https://github.com/jacquie0583/Data-Science-Challenge/blob/main/Picture2.png">
 </p>
 
 The Average Order Value metric is the sum of both 'order_amount' and 'total-amount', as follows:
